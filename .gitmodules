@@ -43,3 +43,9 @@
 [submodule "/Users/johan/.tmux/plugins/tmux-continuum"]
 	path = /Users/johan/.tmux/plugins/tmux-continuum
 	url = https://github.com/tmux-plugins/tmux-continuum.git
+[submodule ".vim/bundle/.vim/bundle/vim-tmux-navigator"]
+	path = .vim/bundle/.vim/bundle/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator.git
+[submodule ".vim/bundle/vim-tmux-navigator"]
+	path = .vim/bundle/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator.git
